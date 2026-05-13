@@ -1,9 +1,19 @@
 # 💫 Hi 👋, I'm Jhalak Kapila
-**Pursuing B.Tech in Computer Science Engineering || Aspiring Software Engineer || Full Stack & ML Enthusiast**
+**Final Year B.Tech CSE Student || Aspiring Software Engineer || Full Stack & ML Enthusiast**
+---
+I'm a final-year Computer Science student at BML Munjal University, passionate about building scalable software systems and real-world AI-driven applications.
 
+I enjoy working on impactful projects across domains like AI, healthcare, insurance, and privacy-focused technologies, with a growing interest in backend systems and autonomous AI workflows.
+
+## 🚀 About Me
 - 🔭 **I’m currently working on:** Full Stack and Machine Learning projects
 - 🌱 **I’m currently learning:** Data Structures & Algorithms and Backend Development
-- ⚡ **Fun fact:** I enjoy building real-world tech solutions and solving problems through code
+- 💡 **Interested in:** Scalable infrastructure, AI systems, and solving real-world problems through technology
+- ⚡ **Fun fact:** I enjoy turning ideas into practical applications through code
+
+## 🌟 Leadership & Activities
+- Operations Team EC Member at SAVERA NGO
+- Scholar at the Google-supported WE Program
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhalak-kapila-511920283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapilajhalak@gmail.com) 
