@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Jhalak Kapila
-**Final Year B.Tech CSE Student || Aspiring Software Engineer || Full Stack & ML Enthusiast**
+### **Final Year B.Tech CSE Student || Aspiring Software Engineer || Full Stack & ML Enthusiast**
 ---
 I'm a final-year Computer Science student at BML Munjal University, passionate about building scalable software systems and real-world AI-driven applications.
 
-I enjoy working on impactful projects across domains like AI, healthcare, insurance, and privacy-focused technologies, with a growing interest in backend systems and autonomous AI workflows.
+I enjoy working on impactful projects across domains like AI and privacy-focused technologies, with a growing interest in backend systems and autonomous AI workflows.
 
 ## 🚀 About Me
 - 🔭 **Currently working on:** Full Stack and Machine Learning projects
@@ -24,13 +24,9 @@ I enjoy working on impactful projects across domains like AI, healthcare, insura
 ![](https://streak-stats.demolab.com/?user=Jhalakk12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jhalakk12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
+<!-- Snake Game-->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jhalakk12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
