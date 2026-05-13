@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Jhalak Kapila
+# Hi 👋, I'm Jhalak Kapila
 ### **Final Year B.Tech CSE Student || Aspiring Software Engineer || Full Stack & ML Enthusiast**
 ---
 I'm a final-year Computer Science student at BML Munjal University, passionate about building scalable software systems and real-world AI-driven applications.
