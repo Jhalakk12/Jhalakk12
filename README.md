@@ -6,8 +6,8 @@ I'm a final-year Computer Science student at BML Munjal University, passionate a
 I enjoy working on impactful projects across domains like AI, healthcare, insurance, and privacy-focused technologies, with a growing interest in backend systems and autonomous AI workflows.
 
 ## 🚀 About Me
-- 🔭 **I’m currently working on:** Full Stack and Machine Learning projects
-- 🌱 **I’m currently learning:** Data Structures & Algorithms and Backend Development
+- 🔭 **Currently working on:** Full Stack and Machine Learning projects
+- 🌱 **Currently learning:** Data Structures & Algorithms and Backend Development
 - 💡 **Interested in:** Scalable infrastructure, AI systems, and solving real-world problems through technology
 - ⚡ **Fun fact:** I enjoy turning ideas into practical applications through code
 
